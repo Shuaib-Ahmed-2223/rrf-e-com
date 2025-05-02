@@ -1,0 +1,20 @@
+
+@import "tailwindcss";
+
+.container{
+    @apply mx-auto ;
+     width: 1240px !important;
+  }
+
+  .rrf-top-bar a{
+    @apply underline font-bold;
+  }
+
+.main-menu{
+    @apply flex;
+}
+
+
+
+
+
