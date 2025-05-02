@@ -90,7 +90,7 @@
 
 @font-face {
   font-family: 'Integral CF';
-  src: url('/assets/css/fonts/IntegralCF-Bold.woff2') format('woff2'),
+  src: url('assets/css/fonts/IntegralCF-Bold.woff2') format('woff2'),
       url('IntegralCF-Bold.woff') format('woff');
   font-weight: 700;
   font-style: normal;
